@@ -39,7 +39,8 @@
 
 田柯宇 (Tian Keyu) GitHub主页: https://github.com/keyu-tian
 
-<img width="889" alt="image" src="https://github.com/user-attachments/assets/de9f6321-5b39-4e2a-90cf-46396caf4c9d">
+
+<img width="880" alt="image" src="https://github.com/user-attachments/assets/26b98578-48fd-4acb-a8b5-dc483faeea1a">
 
 <img width="834" alt="image" src="https://github.com/user-attachments/assets/812b5aea-bc6a-4a65-afcb-6fd18d293692">
 
