@@ -1,11 +1,22 @@
 ## 田柯宇 (Tian Keyu)恶意攻击集群事件的证据揭露
 
+### 2024.10.19
 
+
+公司官方回应：https://www.toutiao.com/w/1813324433807370
+<img width="716" alt="image" src="https://github.com/user-attachments/assets/6d7bac05-7784-43e0-95af-3f6982cd19de">
+
+
+
+---
+### 2024.10.18
 田柯宇 (Tian Keyu)，请立即停止你的洗白行为！你在长达2个月的时间里对集群代码进行恶意攻击，对公司近30位各级员工造成巨大伤害，让你的同事近一个季度的工作白费。所有的记录和审查都证明这是不容狡辩的事实！
 
 调查人员对田柯宇 (Tian Keyu)的询问录音链接: https://www.youtube.com/watch?v=nEYbYW--qN8
 
----
+<br />
+
+<br />
 
 田柯宇 (Tian Keyu)在实习期间为了抢夺集群资源，背刺同事和公司，在至少2个月(目前可追溯)的时间内对集群代码持续发起恶意攻击, 包括但不限于:
 ```
